@@ -28,10 +28,10 @@
     "LICENSE"
   ],
   "dependencies": {
-    "lodash": "3.10.0",
+    "lodash": "4.17.21",
     "gex": "0.2.2"
   },
   "devDependencies": {
-    "serve": "1.4.0"
+    "serve": "10.1.2"
   }
 }
